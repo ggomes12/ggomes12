@@ -1,7 +1,6 @@
 ### [Home ~]$ Hello, my name is Guilherme Gomes, 🤘
 
-
-![ggomes12 GitHub stats](https://github-readme-stats.vercel.app/api?username=ggomes12&show_icons=true&theme=radical)
+![ggomes12's Stats](https://github-readme-stats.vercel.app/api?username=ggomes12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 • STUDENT at UFPI - Bachelor's Degree in Information Systems (6º/8º) <br/>
 • Vice-Director at Empresa Júnior de Tecnologia - Jua Soluções TI - UFPI <br/>
