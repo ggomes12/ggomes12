@@ -4,7 +4,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=ggomes12&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)-->
 
 
-• STUDENT at UFPI - Bachelor's Degree in Information Systems (6º/8º) <br/>
+• STUDENT at UFPI - Bachelor's Degree in Information Systems (7º/8º) <br/>
 • Vice-Director at Empresa Júnior de Tecnologia - Jua Soluções TI - UFPI <br/>
 
 
